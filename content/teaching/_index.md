@@ -1,6 +1,6 @@
 ---
 title: Teaching
-summary: My courses
+summary: Logic for Programming
 type: landing
 
 cascade:
