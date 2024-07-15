@@ -50,11 +50,11 @@ sections:
   #      folders:
   #        - publication
   #      featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+    #design:
+      #view: article-grid
+      #columns: 2
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Publications
       text: ""
@@ -63,21 +63,21 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
-  #- block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent & Upcoming Talks
+      view: collection
+      columns: 2
+  - block: resume-experience
+    content:
+      title: Experience
   #    filters:
-  #      folders:
+  #     folders:
   #        - event
-  #  design:
-  #    view: article-grid
-  #    columns: 1
-  #- block: collection
-  #  id: news
+    design:
+      view: article-grid
+      columns: 2
+  #- block: resume-skills
+  #  id: skills
   #  content:
-  #    title: Recent News
+  #    title: Skills
   #    subtitle: ''
   #    text: ''
       # Page type to display. E.g. post, talk, publication...
