@@ -5,7 +5,7 @@
     <link>//localhost:1313/tags/amyotrophic-lateral-sclerosis/</link>
       <atom:link href="//localhost:1313/tags/amyotrophic-lateral-sclerosis/index.xml" rel="self" type="application/rss+xml" />
     <description>Amyotrophic Lateral Sclerosis</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu63e12034bf55b19bc9540197e36833fa_27787_512x512_fill_lanczos_center_3.png</url>
       <title>Amyotrophic Lateral Sclerosis</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Predicting the Functional Rating Scale and Self-Assessment Status of ALS Patients with Sensor Data</title>
+      <link>//localhost:1313/publication/preprint/clef2024/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/preprint/clef2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Temporal stratification of amyotrophic lateral sclerosis patients using disease progression patterns</title>
-      <link>//localhost:1313/publication/preprint/</link>
+      <link>//localhost:1313/publication/preprint/clustric/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/publication/preprint/</guid>
+      <guid>//localhost:1313/publication/preprint/clustric/</guid>
       <description></description>
     </item>
     

@@ -75,4 +75,3 @@ image:
 # slides: example
 ---
 
-
