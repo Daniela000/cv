@@ -189,5 +189,4 @@ languages:
 
 ## About Me
 
-Daniela M. Amaral is a reaseach assistant of the Data and Systems Intelligence Research Line at the Lasige Research Unit. Her research interests include artificial intelligence, bioinformatics and data science. She recently graduated of her Master’s degree in Computer Science and Engineering, specializing in Artificial
-Intelligence and Bioinformatics, at Instituto Superior Técnico, University of Lisbon.
+Daniela M. Amaral is a research assistant in the Data and Systems Intelligence Research Line at the Lasige Research Unit. Her research interests include artificial intelligence, bioinformatics, and data science. She recently earned a Master’s in Computer Science and Engineering from Instituto Superior Técnico, University of Lisbon, specializing in Artificial Intelligence and Bioinformatics.
